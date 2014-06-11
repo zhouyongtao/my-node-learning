@@ -1,7 +1,21 @@
 /*
 
+ ----.
+ _.'__    `.
+ .--(#)(##)---/#\
+ .' @          /###\
+ :         ,   #####
+ `-..__.-' _.-\###/
+ `;_:    `"'
+ .'"""""`.
+ /,  Irving ,\
+ //  很穷!  \\
+ `-._______.-'
+ ___`. | .'___
+ (______|______)
 
-*/
+
+ */
 var express = require('express');
 var path = require('path');
 var favicon = require('static-favicon');
